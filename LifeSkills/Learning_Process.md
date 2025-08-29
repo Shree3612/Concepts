@@ -1,4 +1,4 @@
-# Learning Questions & Answers  
+# Learning Process 
 
 ## Question 1  
 **What is the Feynman Technique?**  
@@ -17,7 +17,7 @@
 **According to the video, what are the steps to take when approaching a new topic?**  
 - Step 1: Deconstruct the skill – Break the topic into smaller chunks and focus on the most useful part first.  
 - Step 2: Learn enough to self-correct – Learn just enough to start practicing and correcting yourself along the way.  
-- Step 3: Remove the barriers – Cut off distractions (TV, phone, etc.) so you can focus.  
+- Step 3: Remove the barriers – Cut off distractions like TV,phone,etc, so you can focus.  
 - Step 4: Practice – Put in at least 20 hours of real practice to get comfortable.  
 
 ## Question 5  
